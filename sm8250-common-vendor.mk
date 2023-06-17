@@ -59,6 +59,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib/libwfduibcsrc.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libwfduibcsrc.so \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib/libwfduibcsrcinterface.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libwfduibcsrcinterface.so \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib/vendor.qti.hardware.wifidisplaysession@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.qti.hardware.wifidisplaysession@1.0.so \
+    vendor/xiaomi/sm8250-common/proprietary/vendor/lib/libav_ozodecoder.so:$(TARGET_COPY_OUT_VENDOR)/lib/libav_ozodecoder.so \
+    vendor/xiaomi/sm8250-common/proprietary/vendor/lib/libav_ozoencoder.so:$(TARGET_COPY_OUT_VENDOR)/lib/libav_ozoencoder.so \
+    vendor/xiaomi/sm8250-common/proprietary/vendor/lib/libozoaudio.so:$(TARGET_COPY_OUT_VENDOR)/lib/libozoaudio.so \
+    vendor/xiaomi/sm8250-common/proprietary/vendor/lib/libozowidening.so:$(TARGET_COPY_OUT_VENDOR)/lib/libozowidening.so \
+    vendor/xiaomi/sm8250-common/proprietary/vendor/lib/soundfx/libozoprocessing.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libozoprocessing.so \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib64/com.qualcomm.qti.dpm.api@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/com.qualcomm.qti.dpm.api@1.0.so \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib64/lib-imsvideocodec.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/lib-imsvideocodec.so \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib64/lib-imsvt.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/lib-imsvt.so \
